@@ -7,3 +7,6 @@ __pycache__/
 
 # YOLOv3 weights (248MB, exceeds GitHub's 100MB limit) - download from pjreddie.com
 yolov3.weights
+
+# Original iPhone HEIC photo (contains GPS location)
+Lab14/Lab14.jpg
